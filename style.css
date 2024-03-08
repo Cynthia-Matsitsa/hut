@@ -1,0 +1,89 @@
+#word{
+    text-align: center;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+#image{
+    text-align: center;
+
+
+}
+#concept{
+    float: right;
+}
+#words{
+    text-align: center;
+}
+
+#box{
+    display: flex;
+    gap: 400px;
+    justify-content: space-between;
+    
+    
+}
+#home{
+    text-align: center;
+    display: flex;
+    gap: 300px;
+    float: right;
+    font-size: 20px;
+}
+#cynthia{
+    display: flex;
+    justify-content: space-between;
+    text-indent: 300px;
+    text-align: center;
+    float: right;
+}
+#some{
+    text-align: center; 
+    text-decoration: yellow;
+}
+#form{
+    text-align: center;
+    font-size: 50px;
+}
+#icon{
+    text-align: center;
+
+
+}
+#hit{
+    font-size: 50px;
+    
+}
+#mkdir{
+    font-size: 50px;
+}
+#taik{ 
+    text-align: center;
+}
+#contact{
+    display: flex;
+    text-align: center;
+    text-indent: 300px;
+    font-size: 50px;
+
+    
+}
+#Agree{
+    text-align: center;
+    
+}
+#state{ 
+    text-align: center;
+    font-size: 50px;
+
+}
+#cure{
+    text-align: center;
+}
+
+
+
+
+
+
